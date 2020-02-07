@@ -1,0 +1,12 @@
+#!/bin/bash -l
+#SBATCH -A snic2019-8-97
+#SBATCH -p core
+#SBATCH -n 1
+#SBATCH -t 05:00:00
+#SBATCH -J job7
+#SBATCH --output=f8.fastq.out
+cd /proj/snic2019-8-97/barseq_sample/barSeq
+mkdir splitFolder
+mkdir splitFolder/f8Folder
+mv data/sequence/f8.fastq splitFolder/f8Folder
+python barseq.py -i splitFolder/f8.fastq -b data/sample.csv -r f8FolderRES

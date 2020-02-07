@@ -1,0 +1,484 @@
+2020-01-24 11:55 - INFO - barseq - ***** Starting barseq *****
+2020-01-24 11:55 - INFO - barseq - Reading in barcodes from barcode_gene_file.csv
+2020-01-24 11:55 - INFO - barseq - Counting Barcodes in P14756_1001_S1_L001_R1_001
+2020-01-24 11:55 - INFO - process_reads_fast - For forward P14756_1001_S1_L001_R1_001.fastq.gz, 0 of 107096 (0.0%) matched known barcodes.
+2020-01-24 11:55 - INFO - process_reads_fast - Reads without barcode match: 107096 (100.0%) for P14756_1001_S1_L001_R1_001.fastq.gz
+2020-01-24 11:55 - INFO - process_reads_fast - For reverse P14756_1001_S1_L001_R1_001.fastq.gz, 100955 of 107096 (94.27%) matched known barcodes.
+2020-01-24 11:55 - INFO - process_reads_fast - Reads without barcode match: 6141 (5.73%) for P14756_1001_S1_L001_R1_001.fastq.gz
+2020-01-24 11:55 - INFO - barseq - Counting Barcodes in P14756_1001_S1_L001_R2_001
+2020-01-24 11:55 - INFO - process_reads_fast - For forward P14756_1001_S1_L001_R2_001.fastq.gz, 97045 of 107096 (90.61%) matched known barcodes.
+2020-01-24 11:55 - INFO - process_reads_fast - Reads without barcode match: 10051 (9.39%) for P14756_1001_S1_L001_R2_001.fastq.gz
+2020-01-24 11:55 - INFO - process_reads_fast - For reverse P14756_1001_S1_L001_R2_001.fastq.gz, 0 of 107096 (0.0%) matched known barcodes.
+2020-01-24 11:55 - INFO - process_reads_fast - Reads without barcode match: 107096 (100.0%) for P14756_1001_S1_L001_R2_001.fastq.gz
+2020-01-24 11:55 - INFO - barseq - Counting Barcodes in P14756_1002_S2_L001_R1_001
+2020-01-24 11:55 - INFO - process_reads_fast - For forward P14756_1002_S2_L001_R1_001.fastq.gz, 1 of 88377 (0.0%) matched known barcodes.
+2020-01-24 11:55 - INFO - process_reads_fast - Reads without barcode match: 88376 (100.0%) for P14756_1002_S2_L001_R1_001.fastq.gz
+2020-01-24 11:55 - INFO - process_reads_fast - For reverse P14756_1002_S2_L001_R1_001.fastq.gz, 82592 of 88377 (93.45%) matched known barcodes.
+2020-01-24 11:55 - INFO - process_reads_fast - Reads without barcode match: 5785 (6.55%) for P14756_1002_S2_L001_R1_001.fastq.gz
+2020-01-24 11:55 - INFO - barseq - Counting Barcodes in P14756_1002_S2_L001_R2_001
+2020-01-24 11:55 - INFO - process_reads_fast - For forward P14756_1002_S2_L001_R2_001.fastq.gz, 79290 of 88377 (89.72%) matched known barcodes.
+2020-01-24 11:55 - INFO - process_reads_fast - Reads without barcode match: 9087 (10.28%) for P14756_1002_S2_L001_R2_001.fastq.gz
+2020-01-24 11:55 - INFO - process_reads_fast - For reverse P14756_1002_S2_L001_R2_001.fastq.gz, 2 of 88377 (0.0%) matched known barcodes.
+2020-01-24 11:55 - INFO - process_reads_fast - Reads without barcode match: 88375 (100.0%) for P14756_1002_S2_L001_R2_001.fastq.gz
+2020-01-24 11:55 - INFO - barseq - Counting Barcodes in P14756_1003_S3_L001_R1_001
+2020-01-24 11:55 - INFO - process_reads_fast - For forward P14756_1003_S3_L001_R1_001.fastq.gz, 1 of 95915 (0.0%) matched known barcodes.
+2020-01-24 11:55 - INFO - process_reads_fast - Reads without barcode match: 95914 (100.0%) for P14756_1003_S3_L001_R1_001.fastq.gz
+2020-01-24 11:55 - INFO - process_reads_fast - For reverse P14756_1003_S3_L001_R1_001.fastq.gz, 89662 of 95915 (93.48%) matched known barcodes.
+2020-01-24 11:55 - INFO - process_reads_fast - Reads without barcode match: 6253 (6.52%) for P14756_1003_S3_L001_R1_001.fastq.gz
+2020-01-24 11:55 - INFO - barseq - Counting Barcodes in P14756_1003_S3_L001_R2_001
+2020-01-24 11:55 - INFO - process_reads_fast - For forward P14756_1003_S3_L001_R2_001.fastq.gz, 86078 of 95915 (89.74%) matched known barcodes.
+2020-01-24 11:55 - INFO - process_reads_fast - Reads without barcode match: 9837 (10.26%) for P14756_1003_S3_L001_R2_001.fastq.gz
+2020-01-24 11:55 - INFO - process_reads_fast - For reverse P14756_1003_S3_L001_R2_001.fastq.gz, 0 of 95915 (0.0%) matched known barcodes.
+2020-01-24 11:55 - INFO - process_reads_fast - Reads without barcode match: 95915 (100.0%) for P14756_1003_S3_L001_R2_001.fastq.gz
+2020-01-24 11:55 - INFO - barseq - Counting Barcodes in P14756_1004_S4_L001_R1_001
+2020-01-24 11:56 - INFO - process_reads_fast - For forward P14756_1004_S4_L001_R1_001.fastq.gz, 0 of 105859 (0.0%) matched known barcodes.
+2020-01-24 11:56 - INFO - process_reads_fast - Reads without barcode match: 105859 (100.0%) for P14756_1004_S4_L001_R1_001.fastq.gz
+2020-01-24 11:56 - INFO - process_reads_fast - For reverse P14756_1004_S4_L001_R1_001.fastq.gz, 98379 of 105859 (92.93%) matched known barcodes.
+2020-01-24 11:56 - INFO - process_reads_fast - Reads without barcode match: 7480 (7.07%) for P14756_1004_S4_L001_R1_001.fastq.gz
+2020-01-24 11:56 - INFO - barseq - Counting Barcodes in P14756_1004_S4_L001_R2_001
+2020-01-24 11:56 - INFO - process_reads_fast - For forward P14756_1004_S4_L001_R2_001.fastq.gz, 94153 of 105859 (88.94%) matched known barcodes.
+2020-01-24 11:56 - INFO - process_reads_fast - Reads without barcode match: 11706 (11.06%) for P14756_1004_S4_L001_R2_001.fastq.gz
+2020-01-24 11:56 - INFO - process_reads_fast - For reverse P14756_1004_S4_L001_R2_001.fastq.gz, 0 of 105859 (0.0%) matched known barcodes.
+2020-01-24 11:56 - INFO - process_reads_fast - Reads without barcode match: 105859 (100.0%) for P14756_1004_S4_L001_R2_001.fastq.gz
+2020-01-24 11:56 - INFO - barseq - Counting Barcodes in P14756_1005_S5_L001_R1_001
+2020-01-24 11:56 - INFO - process_reads_fast - For forward P14756_1005_S5_L001_R1_001.fastq.gz, 1 of 88502 (0.0%) matched known barcodes.
+2020-01-24 11:56 - INFO - process_reads_fast - Reads without barcode match: 88501 (100.0%) for P14756_1005_S5_L001_R1_001.fastq.gz
+2020-01-24 11:56 - INFO - process_reads_fast - For reverse P14756_1005_S5_L001_R1_001.fastq.gz, 74324 of 88502 (83.98%) matched known barcodes.
+2020-01-24 11:56 - INFO - process_reads_fast - Reads without barcode match: 14178 (16.02%) for P14756_1005_S5_L001_R1_001.fastq.gz
+2020-01-24 11:56 - INFO - barseq - Counting Barcodes in P14756_1005_S5_L001_R2_001
+2020-01-24 11:56 - INFO - process_reads_fast - For forward P14756_1005_S5_L001_R2_001.fastq.gz, 71316 of 88502 (80.58%) matched known barcodes.
+2020-01-24 11:56 - INFO - process_reads_fast - Reads without barcode match: 17186 (19.42%) for P14756_1005_S5_L001_R2_001.fastq.gz
+2020-01-24 11:56 - INFO - process_reads_fast - For reverse P14756_1005_S5_L001_R2_001.fastq.gz, 1 of 88502 (0.0%) matched known barcodes.
+2020-01-24 11:56 - INFO - process_reads_fast - Reads without barcode match: 88501 (100.0%) for P14756_1005_S5_L001_R2_001.fastq.gz
+2020-01-24 11:56 - INFO - barseq - Counting Barcodes in P14756_1006_S6_L001_R1_001
+2020-01-24 11:56 - INFO - process_reads_fast - For forward P14756_1006_S6_L001_R1_001.fastq.gz, 0 of 106283 (0.0%) matched known barcodes.
+2020-01-24 11:56 - INFO - process_reads_fast - Reads without barcode match: 106283 (100.0%) for P14756_1006_S6_L001_R1_001.fastq.gz
+2020-01-24 11:56 - INFO - process_reads_fast - For reverse P14756_1006_S6_L001_R1_001.fastq.gz, 90998 of 106283 (85.62%) matched known barcodes.
+2020-01-24 11:56 - INFO - process_reads_fast - Reads without barcode match: 15285 (14.38%) for P14756_1006_S6_L001_R1_001.fastq.gz
+2020-01-24 11:56 - INFO - barseq - Counting Barcodes in P14756_1006_S6_L001_R2_001
+2020-01-24 11:56 - INFO - process_reads_fast - For forward P14756_1006_S6_L001_R2_001.fastq.gz, 87519 of 106283 (82.35%) matched known barcodes.
+2020-01-24 11:56 - INFO - process_reads_fast - Reads without barcode match: 18764 (17.65%) for P14756_1006_S6_L001_R2_001.fastq.gz
+2020-01-24 11:56 - INFO - process_reads_fast - For reverse P14756_1006_S6_L001_R2_001.fastq.gz, 0 of 106283 (0.0%) matched known barcodes.
+2020-01-24 11:56 - INFO - process_reads_fast - Reads without barcode match: 106283 (100.0%) for P14756_1006_S6_L001_R2_001.fastq.gz
+2020-01-24 11:56 - INFO - barseq - Counting Barcodes in P14756_1007_S7_L001_R1_001
+2020-01-24 11:56 - INFO - process_reads_fast - For forward P14756_1007_S7_L001_R1_001.fastq.gz, 0 of 98545 (0.0%) matched known barcodes.
+2020-01-24 11:56 - INFO - process_reads_fast - Reads without barcode match: 98545 (100.0%) for P14756_1007_S7_L001_R1_001.fastq.gz
+2020-01-24 11:56 - INFO - process_reads_fast - For reverse P14756_1007_S7_L001_R1_001.fastq.gz, 83403 of 98545 (84.63%) matched known barcodes.
+2020-01-24 11:56 - INFO - process_reads_fast - Reads without barcode match: 15142 (15.37%) for P14756_1007_S7_L001_R1_001.fastq.gz
+2020-01-24 11:56 - INFO - barseq - Counting Barcodes in P14756_1007_S7_L001_R2_001
+2020-01-24 11:56 - INFO - process_reads_fast - For forward P14756_1007_S7_L001_R2_001.fastq.gz, 80166 of 98545 (81.35%) matched known barcodes.
+2020-01-24 11:56 - INFO - process_reads_fast - Reads without barcode match: 18379 (18.65%) for P14756_1007_S7_L001_R2_001.fastq.gz
+2020-01-24 11:56 - INFO - process_reads_fast - For reverse P14756_1007_S7_L001_R2_001.fastq.gz, 0 of 98545 (0.0%) matched known barcodes.
+2020-01-24 11:56 - INFO - process_reads_fast - Reads without barcode match: 98545 (100.0%) for P14756_1007_S7_L001_R2_001.fastq.gz
+2020-01-24 11:56 - INFO - barseq - Counting Barcodes in P14756_1008_S8_L001_R1_001
+2020-01-24 11:56 - INFO - process_reads_fast - For forward P14756_1008_S8_L001_R1_001.fastq.gz, 2 of 121649 (0.0%) matched known barcodes.
+2020-01-24 11:56 - INFO - process_reads_fast - Reads without barcode match: 121647 (100.0%) for P14756_1008_S8_L001_R1_001.fastq.gz
+2020-01-24 11:56 - INFO - process_reads_fast - For reverse P14756_1008_S8_L001_R1_001.fastq.gz, 104443 of 121649 (85.86%) matched known barcodes.
+2020-01-24 11:56 - INFO - process_reads_fast - Reads without barcode match: 17206 (14.14%) for P14756_1008_S8_L001_R1_001.fastq.gz
+2020-01-24 11:56 - INFO - barseq - Counting Barcodes in P14756_1008_S8_L001_R2_001
+2020-01-24 11:56 - INFO - process_reads_fast - For forward P14756_1008_S8_L001_R2_001.fastq.gz, 100764 of 121649 (82.83%) matched known barcodes.
+2020-01-24 11:56 - INFO - process_reads_fast - Reads without barcode match: 20885 (17.17%) for P14756_1008_S8_L001_R2_001.fastq.gz
+2020-01-24 11:56 - INFO - process_reads_fast - For reverse P14756_1008_S8_L001_R2_001.fastq.gz, 2 of 121649 (0.0%) matched known barcodes.
+2020-01-24 11:56 - INFO - process_reads_fast - Reads without barcode match: 121647 (100.0%) for P14756_1008_S8_L001_R2_001.fastq.gz
+2020-01-24 11:56 - INFO - barseq - Counting Barcodes in P14756_1009_S9_L001_R1_001
+2020-01-24 11:57 - INFO - process_reads_fast - For forward P14756_1009_S9_L001_R1_001.fastq.gz, 0 of 96408 (0.0%) matched known barcodes.
+2020-01-24 11:57 - INFO - process_reads_fast - Reads without barcode match: 96408 (100.0%) for P14756_1009_S9_L001_R1_001.fastq.gz
+2020-01-24 11:57 - INFO - process_reads_fast - For reverse P14756_1009_S9_L001_R1_001.fastq.gz, 81245 of 96408 (84.27%) matched known barcodes.
+2020-01-24 11:57 - INFO - process_reads_fast - Reads without barcode match: 15163 (15.73%) for P14756_1009_S9_L001_R1_001.fastq.gz
+2020-01-24 11:57 - INFO - barseq - Counting Barcodes in P14756_1009_S9_L001_R2_001
+2020-01-24 11:57 - INFO - process_reads_fast - For forward P14756_1009_S9_L001_R2_001.fastq.gz, 78097 of 96408 (81.01%) matched known barcodes.
+2020-01-24 11:57 - INFO - process_reads_fast - Reads without barcode match: 18311 (18.99%) for P14756_1009_S9_L001_R2_001.fastq.gz
+2020-01-24 11:57 - INFO - process_reads_fast - For reverse P14756_1009_S9_L001_R2_001.fastq.gz, 0 of 96408 (0.0%) matched known barcodes.
+2020-01-24 11:57 - INFO - process_reads_fast - Reads without barcode match: 96408 (100.0%) for P14756_1009_S9_L001_R2_001.fastq.gz
+2020-01-24 11:57 - INFO - barseq - Counting Barcodes in P14756_1010_S10_L001_R1_001
+2020-01-24 11:57 - INFO - process_reads_fast - For forward P14756_1010_S10_L001_R1_001.fastq.gz, 0 of 108494 (0.0%) matched known barcodes.
+2020-01-24 11:57 - INFO - process_reads_fast - Reads without barcode match: 108494 (100.0%) for P14756_1010_S10_L001_R1_001.fastq.gz
+2020-01-24 11:57 - INFO - process_reads_fast - For reverse P14756_1010_S10_L001_R1_001.fastq.gz, 91911 of 108494 (84.72%) matched known barcodes.
+2020-01-24 11:57 - INFO - process_reads_fast - Reads without barcode match: 16583 (15.28%) for P14756_1010_S10_L001_R1_001.fastq.gz
+2020-01-24 11:57 - INFO - barseq - Counting Barcodes in P14756_1010_S10_L001_R2_001
+2020-01-24 11:57 - INFO - process_reads_fast - For forward P14756_1010_S10_L001_R2_001.fastq.gz, 88170 of 108494 (81.27%) matched known barcodes.
+2020-01-24 11:57 - INFO - process_reads_fast - Reads without barcode match: 20324 (18.73%) for P14756_1010_S10_L001_R2_001.fastq.gz
+2020-01-24 11:57 - INFO - process_reads_fast - For reverse P14756_1010_S10_L001_R2_001.fastq.gz, 0 of 108494 (0.0%) matched known barcodes.
+2020-01-24 11:57 - INFO - process_reads_fast - Reads without barcode match: 108494 (100.0%) for P14756_1010_S10_L001_R2_001.fastq.gz
+2020-01-24 11:57 - INFO - barseq - Counting Barcodes in P14756_1011_S11_L001_R1_001
+2020-01-24 11:57 - INFO - process_reads_fast - For forward P14756_1011_S11_L001_R1_001.fastq.gz, 1 of 87157 (0.0%) matched known barcodes.
+2020-01-24 11:57 - INFO - process_reads_fast - Reads without barcode match: 87156 (100.0%) for P14756_1011_S11_L001_R1_001.fastq.gz
+2020-01-24 11:57 - INFO - process_reads_fast - For reverse P14756_1011_S11_L001_R1_001.fastq.gz, 75071 of 87157 (86.13%) matched known barcodes.
+2020-01-24 11:57 - INFO - process_reads_fast - Reads without barcode match: 12086 (13.87%) for P14756_1011_S11_L001_R1_001.fastq.gz
+2020-01-24 11:57 - INFO - barseq - Counting Barcodes in P14756_1011_S11_L001_R2_001
+2020-01-24 11:57 - INFO - process_reads_fast - For forward P14756_1011_S11_L001_R2_001.fastq.gz, 71754 of 87157 (82.33%) matched known barcodes.
+2020-01-24 11:57 - INFO - process_reads_fast - Reads without barcode match: 15403 (17.67%) for P14756_1011_S11_L001_R2_001.fastq.gz
+2020-01-24 11:57 - INFO - process_reads_fast - For reverse P14756_1011_S11_L001_R2_001.fastq.gz, 1 of 87157 (0.0%) matched known barcodes.
+2020-01-24 11:57 - INFO - process_reads_fast - Reads without barcode match: 87156 (100.0%) for P14756_1011_S11_L001_R2_001.fastq.gz
+2020-01-24 11:57 - INFO - barseq - Counting Barcodes in P14756_1012_S12_L001_R1_001
+2020-01-24 11:57 - INFO - process_reads_fast - For forward P14756_1012_S12_L001_R1_001.fastq.gz, 0 of 101221 (0.0%) matched known barcodes.
+2020-01-24 11:57 - INFO - process_reads_fast - Reads without barcode match: 101221 (100.0%) for P14756_1012_S12_L001_R1_001.fastq.gz
+2020-01-24 11:57 - INFO - process_reads_fast - For reverse P14756_1012_S12_L001_R1_001.fastq.gz, 85183 of 101221 (84.16%) matched known barcodes.
+2020-01-24 11:57 - INFO - process_reads_fast - Reads without barcode match: 16038 (15.84%) for P14756_1012_S12_L001_R1_001.fastq.gz
+2020-01-24 11:57 - INFO - barseq - Counting Barcodes in P14756_1012_S12_L001_R2_001
+2020-01-24 11:57 - INFO - process_reads_fast - For forward P14756_1012_S12_L001_R2_001.fastq.gz, 81452 of 101221 (80.47%) matched known barcodes.
+2020-01-24 11:57 - INFO - process_reads_fast - Reads without barcode match: 19769 (19.53%) for P14756_1012_S12_L001_R2_001.fastq.gz
+2020-01-24 11:57 - INFO - process_reads_fast - For reverse P14756_1012_S12_L001_R2_001.fastq.gz, 0 of 101221 (0.0%) matched known barcodes.
+2020-01-24 11:57 - INFO - process_reads_fast - Reads without barcode match: 101221 (100.0%) for P14756_1012_S12_L001_R2_001.fastq.gz
+2020-01-24 11:57 - INFO - barseq - Counting Barcodes in P14756_1013_S13_L001_R1_001
+2020-01-24 11:57 - INFO - process_reads_fast - For forward P14756_1013_S13_L001_R1_001.fastq.gz, 0 of 99379 (0.0%) matched known barcodes.
+2020-01-24 11:57 - INFO - process_reads_fast - Reads without barcode match: 99379 (100.0%) for P14756_1013_S13_L001_R1_001.fastq.gz
+2020-01-24 11:57 - INFO - process_reads_fast - For reverse P14756_1013_S13_L001_R1_001.fastq.gz, 84022 of 99379 (84.55%) matched known barcodes.
+2020-01-24 11:57 - INFO - process_reads_fast - Reads without barcode match: 15357 (15.45%) for P14756_1013_S13_L001_R1_001.fastq.gz
+2020-01-24 11:57 - INFO - barseq - Counting Barcodes in P14756_1013_S13_L001_R2_001
+2020-01-24 11:57 - INFO - process_reads_fast - For forward P14756_1013_S13_L001_R2_001.fastq.gz, 80811 of 99379 (81.32%) matched known barcodes.
+2020-01-24 11:57 - INFO - process_reads_fast - Reads without barcode match: 18568 (18.68%) for P14756_1013_S13_L001_R2_001.fastq.gz
+2020-01-24 11:57 - INFO - process_reads_fast - For reverse P14756_1013_S13_L001_R2_001.fastq.gz, 0 of 99379 (0.0%) matched known barcodes.
+2020-01-24 11:57 - INFO - process_reads_fast - Reads without barcode match: 99379 (100.0%) for P14756_1013_S13_L001_R2_001.fastq.gz
+2020-01-24 11:57 - INFO - barseq - Counting Barcodes in P14756_1014_S14_L001_R1_001
+2020-01-24 11:58 - INFO - process_reads_fast - For forward P14756_1014_S14_L001_R1_001.fastq.gz, 0 of 108801 (0.0%) matched known barcodes.
+2020-01-24 11:58 - INFO - process_reads_fast - Reads without barcode match: 108801 (100.0%) for P14756_1014_S14_L001_R1_001.fastq.gz
+2020-01-24 11:58 - INFO - process_reads_fast - For reverse P14756_1014_S14_L001_R1_001.fastq.gz, 92504 of 108801 (85.02%) matched known barcodes.
+2020-01-24 11:58 - INFO - process_reads_fast - Reads without barcode match: 16297 (14.98%) for P14756_1014_S14_L001_R1_001.fastq.gz
+2020-01-24 11:58 - INFO - barseq - Counting Barcodes in P14756_1014_S14_L001_R2_001
+2020-01-24 11:58 - INFO - process_reads_fast - For forward P14756_1014_S14_L001_R2_001.fastq.gz, 88505 of 108801 (81.35%) matched known barcodes.
+2020-01-24 11:58 - INFO - process_reads_fast - Reads without barcode match: 20296 (18.65%) for P14756_1014_S14_L001_R2_001.fastq.gz
+2020-01-24 11:58 - INFO - process_reads_fast - For reverse P14756_1014_S14_L001_R2_001.fastq.gz, 0 of 108801 (0.0%) matched known barcodes.
+2020-01-24 11:58 - INFO - process_reads_fast - Reads without barcode match: 108801 (100.0%) for P14756_1014_S14_L001_R2_001.fastq.gz
+2020-01-24 11:58 - INFO - barseq - Counting Barcodes in P14756_1015_S15_L001_R1_001
+2020-01-24 11:58 - INFO - process_reads_fast - For forward P14756_1015_S15_L001_R1_001.fastq.gz, 0 of 94255 (0.0%) matched known barcodes.
+2020-01-24 11:58 - INFO - process_reads_fast - Reads without barcode match: 94255 (100.0%) for P14756_1015_S15_L001_R1_001.fastq.gz
+2020-01-24 11:58 - INFO - process_reads_fast - For reverse P14756_1015_S15_L001_R1_001.fastq.gz, 81194 of 94255 (86.14%) matched known barcodes.
+2020-01-24 11:58 - INFO - process_reads_fast - Reads without barcode match: 13061 (13.86%) for P14756_1015_S15_L001_R1_001.fastq.gz
+2020-01-24 11:58 - INFO - barseq - Counting Barcodes in P14756_1015_S15_L001_R2_001
+2020-01-24 11:58 - INFO - process_reads_fast - For forward P14756_1015_S15_L001_R2_001.fastq.gz, 77917 of 94255 (82.67%) matched known barcodes.
+2020-01-24 11:58 - INFO - process_reads_fast - Reads without barcode match: 16338 (17.33%) for P14756_1015_S15_L001_R2_001.fastq.gz
+2020-01-24 11:58 - INFO - process_reads_fast - For reverse P14756_1015_S15_L001_R2_001.fastq.gz, 0 of 94255 (0.0%) matched known barcodes.
+2020-01-24 11:58 - INFO - process_reads_fast - Reads without barcode match: 94255 (100.0%) for P14756_1015_S15_L001_R2_001.fastq.gz
+2020-01-24 11:58 - INFO - barseq - Counting Barcodes in P14756_1016_S16_L001_R1_001
+2020-01-24 11:58 - INFO - process_reads_fast - For forward P14756_1016_S16_L001_R1_001.fastq.gz, 0 of 102510 (0.0%) matched known barcodes.
+2020-01-24 11:58 - INFO - process_reads_fast - Reads without barcode match: 102510 (100.0%) for P14756_1016_S16_L001_R1_001.fastq.gz
+2020-01-24 11:58 - INFO - process_reads_fast - For reverse P14756_1016_S16_L001_R1_001.fastq.gz, 87195 of 102510 (85.06%) matched known barcodes.
+2020-01-24 11:58 - INFO - process_reads_fast - Reads without barcode match: 15315 (14.94%) for P14756_1016_S16_L001_R1_001.fastq.gz
+2020-01-24 11:58 - INFO - barseq - Counting Barcodes in P14756_1016_S16_L001_R2_001
+2020-01-24 11:58 - INFO - process_reads_fast - For forward P14756_1016_S16_L001_R2_001.fastq.gz, 83467 of 102510 (81.42%) matched known barcodes.
+2020-01-24 11:58 - INFO - process_reads_fast - Reads without barcode match: 19043 (18.58%) for P14756_1016_S16_L001_R2_001.fastq.gz
+2020-01-24 11:58 - INFO - process_reads_fast - For reverse P14756_1016_S16_L001_R2_001.fastq.gz, 0 of 102510 (0.0%) matched known barcodes.
+2020-01-24 11:58 - INFO - process_reads_fast - Reads without barcode match: 102510 (100.0%) for P14756_1016_S16_L001_R2_001.fastq.gz
+2020-01-24 11:58 - INFO - barseq - Counting Barcodes in P14756_1017_S17_L001_R1_001
+2020-01-24 11:58 - INFO - process_reads_fast - For forward P14756_1017_S17_L001_R1_001.fastq.gz, 0 of 108831 (0.0%) matched known barcodes.
+2020-01-24 11:58 - INFO - process_reads_fast - Reads without barcode match: 108831 (100.0%) for P14756_1017_S17_L001_R1_001.fastq.gz
+2020-01-24 11:58 - INFO - process_reads_fast - For reverse P14756_1017_S17_L001_R1_001.fastq.gz, 94122 of 108831 (86.48%) matched known barcodes.
+2020-01-24 11:58 - INFO - process_reads_fast - Reads without barcode match: 14709 (13.52%) for P14756_1017_S17_L001_R1_001.fastq.gz
+2020-01-24 11:58 - INFO - barseq - Counting Barcodes in P14756_1017_S17_L001_R2_001
+2020-01-24 11:58 - INFO - process_reads_fast - For forward P14756_1017_S17_L001_R2_001.fastq.gz, 90692 of 108831 (83.33%) matched known barcodes.
+2020-01-24 11:58 - INFO - process_reads_fast - Reads without barcode match: 18139 (16.67%) for P14756_1017_S17_L001_R2_001.fastq.gz
+2020-01-24 11:58 - INFO - process_reads_fast - For reverse P14756_1017_S17_L001_R2_001.fastq.gz, 0 of 108831 (0.0%) matched known barcodes.
+2020-01-24 11:58 - INFO - process_reads_fast - Reads without barcode match: 108831 (100.0%) for P14756_1017_S17_L001_R2_001.fastq.gz
+2020-01-24 11:58 - INFO - barseq - Counting Barcodes in P14756_1018_S18_L001_R1_001
+2020-01-24 11:58 - INFO - process_reads_fast - For forward P14756_1018_S18_L001_R1_001.fastq.gz, 0 of 91530 (0.0%) matched known barcodes.
+2020-01-24 11:58 - INFO - process_reads_fast - Reads without barcode match: 91530 (100.0%) for P14756_1018_S18_L001_R1_001.fastq.gz
+2020-01-24 11:58 - INFO - process_reads_fast - For reverse P14756_1018_S18_L001_R1_001.fastq.gz, 79884 of 91530 (87.28%) matched known barcodes.
+2020-01-24 11:58 - INFO - process_reads_fast - Reads without barcode match: 11646 (12.72%) for P14756_1018_S18_L001_R1_001.fastq.gz
+2020-01-24 11:58 - INFO - barseq - Counting Barcodes in P14756_1018_S18_L001_R2_001
+2020-01-24 11:58 - INFO - process_reads_fast - For forward P14756_1018_S18_L001_R2_001.fastq.gz, 77117 of 91530 (84.25%) matched known barcodes.
+2020-01-24 11:58 - INFO - process_reads_fast - Reads without barcode match: 14413 (15.75%) for P14756_1018_S18_L001_R2_001.fastq.gz
+2020-01-24 11:58 - INFO - process_reads_fast - For reverse P14756_1018_S18_L001_R2_001.fastq.gz, 0 of 91530 (0.0%) matched known barcodes.
+2020-01-24 11:58 - INFO - process_reads_fast - Reads without barcode match: 91530 (100.0%) for P14756_1018_S18_L001_R2_001.fastq.gz
+2020-01-24 11:58 - INFO - barseq - Counting Barcodes in P14756_1019_S19_L001_R1_001
+2020-01-24 11:59 - INFO - process_reads_fast - For forward P14756_1019_S19_L001_R1_001.fastq.gz, 0 of 99172 (0.0%) matched known barcodes.
+2020-01-24 11:59 - INFO - process_reads_fast - Reads without barcode match: 99172 (100.0%) for P14756_1019_S19_L001_R1_001.fastq.gz
+2020-01-24 11:59 - INFO - process_reads_fast - For reverse P14756_1019_S19_L001_R1_001.fastq.gz, 85949 of 99172 (86.67%) matched known barcodes.
+2020-01-24 11:59 - INFO - process_reads_fast - Reads without barcode match: 13223 (13.33%) for P14756_1019_S19_L001_R1_001.fastq.gz
+2020-01-24 11:59 - INFO - barseq - Counting Barcodes in P14756_1019_S19_L001_R2_001
+2020-01-24 11:59 - INFO - process_reads_fast - For forward P14756_1019_S19_L001_R2_001.fastq.gz, 83466 of 99172 (84.16%) matched known barcodes.
+2020-01-24 11:59 - INFO - process_reads_fast - Reads without barcode match: 15706 (15.84%) for P14756_1019_S19_L001_R2_001.fastq.gz
+2020-01-24 11:59 - INFO - process_reads_fast - For reverse P14756_1019_S19_L001_R2_001.fastq.gz, 0 of 99172 (0.0%) matched known barcodes.
+2020-01-24 11:59 - INFO - process_reads_fast - Reads without barcode match: 99172 (100.0%) for P14756_1019_S19_L001_R2_001.fastq.gz
+2020-01-24 11:59 - INFO - barseq - Counting Barcodes in P14756_1020_S20_L001_R1_001
+2020-01-24 11:59 - INFO - process_reads_fast - For forward P14756_1020_S20_L001_R1_001.fastq.gz, 0 of 74832 (0.0%) matched known barcodes.
+2020-01-24 11:59 - INFO - process_reads_fast - Reads without barcode match: 74832 (100.0%) for P14756_1020_S20_L001_R1_001.fastq.gz
+2020-01-24 11:59 - INFO - process_reads_fast - For reverse P14756_1020_S20_L001_R1_001.fastq.gz, 65431 of 74832 (87.44%) matched known barcodes.
+2020-01-24 11:59 - INFO - process_reads_fast - Reads without barcode match: 9401 (12.56%) for P14756_1020_S20_L001_R1_001.fastq.gz
+2020-01-24 11:59 - INFO - barseq - Counting Barcodes in P14756_1020_S20_L001_R2_001
+2020-01-24 11:59 - INFO - process_reads_fast - For forward P14756_1020_S20_L001_R2_001.fastq.gz, 63322 of 74832 (84.62%) matched known barcodes.
+2020-01-24 11:59 - INFO - process_reads_fast - Reads without barcode match: 11510 (15.38%) for P14756_1020_S20_L001_R2_001.fastq.gz
+2020-01-24 11:59 - INFO - process_reads_fast - For reverse P14756_1020_S20_L001_R2_001.fastq.gz, 0 of 74832 (0.0%) matched known barcodes.
+2020-01-24 11:59 - INFO - process_reads_fast - Reads without barcode match: 74832 (100.0%) for P14756_1020_S20_L001_R2_001.fastq.gz
+2020-01-24 11:59 - INFO - barseq - Counting Barcodes in P14756_1021_S21_L001_R1_001
+2020-01-24 11:59 - INFO - process_reads_fast - For forward P14756_1021_S21_L001_R1_001.fastq.gz, 0 of 100577 (0.0%) matched known barcodes.
+2020-01-24 11:59 - INFO - process_reads_fast - Reads without barcode match: 100577 (100.0%) for P14756_1021_S21_L001_R1_001.fastq.gz
+2020-01-24 11:59 - INFO - process_reads_fast - For reverse P14756_1021_S21_L001_R1_001.fastq.gz, 86624 of 100577 (86.13%) matched known barcodes.
+2020-01-24 11:59 - INFO - process_reads_fast - Reads without barcode match: 13953 (13.87%) for P14756_1021_S21_L001_R1_001.fastq.gz
+2020-01-24 11:59 - INFO - barseq - Counting Barcodes in P14756_1021_S21_L001_R2_001
+2020-01-24 11:59 - INFO - process_reads_fast - For forward P14756_1021_S21_L001_R2_001.fastq.gz, 82686 of 100577 (82.21%) matched known barcodes.
+2020-01-24 11:59 - INFO - process_reads_fast - Reads without barcode match: 17891 (17.79%) for P14756_1021_S21_L001_R2_001.fastq.gz
+2020-01-24 11:59 - INFO - process_reads_fast - For reverse P14756_1021_S21_L001_R2_001.fastq.gz, 0 of 100577 (0.0%) matched known barcodes.
+2020-01-24 11:59 - INFO - process_reads_fast - Reads without barcode match: 100577 (100.0%) for P14756_1021_S21_L001_R2_001.fastq.gz
+2020-01-24 11:59 - INFO - barseq - Counting Barcodes in P14756_1022_S22_L001_R1_001
+2020-01-24 11:59 - INFO - process_reads_fast - For forward P14756_1022_S22_L001_R1_001.fastq.gz, 0 of 95175 (0.0%) matched known barcodes.
+2020-01-24 11:59 - INFO - process_reads_fast - Reads without barcode match: 95175 (100.0%) for P14756_1022_S22_L001_R1_001.fastq.gz
+2020-01-24 11:59 - INFO - process_reads_fast - For reverse P14756_1022_S22_L001_R1_001.fastq.gz, 82762 of 95175 (86.96%) matched known barcodes.
+2020-01-24 11:59 - INFO - process_reads_fast - Reads without barcode match: 12413 (13.04%) for P14756_1022_S22_L001_R1_001.fastq.gz
+2020-01-24 11:59 - INFO - barseq - Counting Barcodes in P14756_1022_S22_L001_R2_001
+2020-01-24 11:59 - INFO - process_reads_fast - For forward P14756_1022_S22_L001_R2_001.fastq.gz, 79105 of 95175 (83.12%) matched known barcodes.
+2020-01-24 11:59 - INFO - process_reads_fast - Reads without barcode match: 16070 (16.88%) for P14756_1022_S22_L001_R2_001.fastq.gz
+2020-01-24 11:59 - INFO - process_reads_fast - For reverse P14756_1022_S22_L001_R2_001.fastq.gz, 0 of 95175 (0.0%) matched known barcodes.
+2020-01-24 11:59 - INFO - process_reads_fast - Reads without barcode match: 95175 (100.0%) for P14756_1022_S22_L001_R2_001.fastq.gz
+2020-01-24 11:59 - INFO - barseq - Counting Barcodes in P14756_1023_S23_L001_R1_001
+2020-01-24 11:59 - INFO - process_reads_fast - For forward P14756_1023_S23_L001_R1_001.fastq.gz, 0 of 92682 (0.0%) matched known barcodes.
+2020-01-24 11:59 - INFO - process_reads_fast - Reads without barcode match: 92682 (100.0%) for P14756_1023_S23_L001_R1_001.fastq.gz
+2020-01-24 11:59 - INFO - process_reads_fast - For reverse P14756_1023_S23_L001_R1_001.fastq.gz, 80355 of 92682 (86.7%) matched known barcodes.
+2020-01-24 11:59 - INFO - process_reads_fast - Reads without barcode match: 12327 (13.3%) for P14756_1023_S23_L001_R1_001.fastq.gz
+2020-01-24 11:59 - INFO - barseq - Counting Barcodes in P14756_1023_S23_L001_R2_001
+2020-01-24 11:59 - INFO - process_reads_fast - For forward P14756_1023_S23_L001_R2_001.fastq.gz, 77193 of 92682 (83.29%) matched known barcodes.
+2020-01-24 11:59 - INFO - process_reads_fast - Reads without barcode match: 15489 (16.71%) for P14756_1023_S23_L001_R2_001.fastq.gz
+2020-01-24 11:59 - INFO - process_reads_fast - For reverse P14756_1023_S23_L001_R2_001.fastq.gz, 0 of 92682 (0.0%) matched known barcodes.
+2020-01-24 11:59 - INFO - process_reads_fast - Reads without barcode match: 92682 (100.0%) for P14756_1023_S23_L001_R2_001.fastq.gz
+2020-01-24 11:59 - INFO - barseq - Counting Barcodes in P14756_1024_S24_L001_R1_001
+2020-01-24 11:59 - INFO - process_reads_fast - For forward P14756_1024_S24_L001_R1_001.fastq.gz, 0 of 85621 (0.0%) matched known barcodes.
+2020-01-24 11:59 - INFO - process_reads_fast - Reads without barcode match: 85621 (100.0%) for P14756_1024_S24_L001_R1_001.fastq.gz
+2020-01-24 11:59 - INFO - process_reads_fast - For reverse P14756_1024_S24_L001_R1_001.fastq.gz, 74946 of 85621 (87.53%) matched known barcodes.
+2020-01-24 11:59 - INFO - process_reads_fast - Reads without barcode match: 10675 (12.47%) for P14756_1024_S24_L001_R1_001.fastq.gz
+2020-01-24 11:59 - INFO - barseq - Counting Barcodes in P14756_1024_S24_L001_R2_001
+2020-01-24 11:59 - INFO - process_reads_fast - For forward P14756_1024_S24_L001_R2_001.fastq.gz, 71793 of 85621 (83.85%) matched known barcodes.
+2020-01-24 11:59 - INFO - process_reads_fast - Reads without barcode match: 13828 (16.15%) for P14756_1024_S24_L001_R2_001.fastq.gz
+2020-01-24 11:59 - INFO - process_reads_fast - For reverse P14756_1024_S24_L001_R2_001.fastq.gz, 0 of 85621 (0.0%) matched known barcodes.
+2020-01-24 11:59 - INFO - process_reads_fast - Reads without barcode match: 85621 (100.0%) for P14756_1024_S24_L001_R2_001.fastq.gz
+2020-01-24 11:59 - INFO - barseq - Counting Barcodes in P14756_1025_S25_L001_R1_001
+2020-01-24 12:00 - INFO - process_reads_fast - For forward P14756_1025_S25_L001_R1_001.fastq.gz, 1 of 100147 (0.0%) matched known barcodes.
+2020-01-24 12:00 - INFO - process_reads_fast - Reads without barcode match: 100146 (100.0%) for P14756_1025_S25_L001_R1_001.fastq.gz
+2020-01-24 12:00 - INFO - process_reads_fast - For reverse P14756_1025_S25_L001_R1_001.fastq.gz, 94264 of 100147 (94.13%) matched known barcodes.
+2020-01-24 12:00 - INFO - process_reads_fast - Reads without barcode match: 5883 (5.87%) for P14756_1025_S25_L001_R1_001.fastq.gz
+2020-01-24 12:00 - INFO - barseq - Counting Barcodes in P14756_1025_S25_L001_R2_001
+2020-01-24 12:00 - INFO - process_reads_fast - For forward P14756_1025_S25_L001_R2_001.fastq.gz, 90331 of 100147 (90.2%) matched known barcodes.
+2020-01-24 12:00 - INFO - process_reads_fast - Reads without barcode match: 9816 (9.8%) for P14756_1025_S25_L001_R2_001.fastq.gz
+2020-01-24 12:00 - INFO - process_reads_fast - For reverse P14756_1025_S25_L001_R2_001.fastq.gz, 1 of 100147 (0.0%) matched known barcodes.
+2020-01-24 12:00 - INFO - process_reads_fast - Reads without barcode match: 100146 (100.0%) for P14756_1025_S25_L001_R2_001.fastq.gz
+2020-01-24 12:00 - INFO - barseq - Counting Barcodes in P14756_1026_S26_L001_R1_001
+2020-01-24 12:00 - INFO - process_reads_fast - For forward P14756_1026_S26_L001_R1_001.fastq.gz, 0 of 96283 (0.0%) matched known barcodes.
+2020-01-24 12:00 - INFO - process_reads_fast - Reads without barcode match: 96283 (100.0%) for P14756_1026_S26_L001_R1_001.fastq.gz
+2020-01-24 12:00 - INFO - process_reads_fast - For reverse P14756_1026_S26_L001_R1_001.fastq.gz, 90695 of 96283 (94.2%) matched known barcodes.
+2020-01-24 12:00 - INFO - process_reads_fast - Reads without barcode match: 5588 (5.8%) for P14756_1026_S26_L001_R1_001.fastq.gz
+2020-01-24 12:00 - INFO - barseq - Counting Barcodes in P14756_1026_S26_L001_R2_001
+2020-01-24 12:00 - INFO - process_reads_fast - For forward P14756_1026_S26_L001_R2_001.fastq.gz, 87069 of 96283 (90.43%) matched known barcodes.
+2020-01-24 12:00 - INFO - process_reads_fast - Reads without barcode match: 9214 (9.57%) for P14756_1026_S26_L001_R2_001.fastq.gz
+2020-01-24 12:00 - INFO - process_reads_fast - For reverse P14756_1026_S26_L001_R2_001.fastq.gz, 0 of 96283 (0.0%) matched known barcodes.
+2020-01-24 12:00 - INFO - process_reads_fast - Reads without barcode match: 96283 (100.0%) for P14756_1026_S26_L001_R2_001.fastq.gz
+2020-01-24 12:00 - INFO - barseq - Counting Barcodes in P14756_1027_S27_L001_R1_001
+2020-01-24 12:00 - INFO - process_reads_fast - For forward P14756_1027_S27_L001_R1_001.fastq.gz, 0 of 90882 (0.0%) matched known barcodes.
+2020-01-24 12:00 - INFO - process_reads_fast - Reads without barcode match: 90882 (100.0%) for P14756_1027_S27_L001_R1_001.fastq.gz
+2020-01-24 12:00 - INFO - process_reads_fast - For reverse P14756_1027_S27_L001_R1_001.fastq.gz, 85028 of 90882 (93.56%) matched known barcodes.
+2020-01-24 12:00 - INFO - process_reads_fast - Reads without barcode match: 5854 (6.44%) for P14756_1027_S27_L001_R1_001.fastq.gz
+2020-01-24 12:00 - INFO - barseq - Counting Barcodes in P14756_1027_S27_L001_R2_001
+2020-01-24 12:00 - INFO - process_reads_fast - For forward P14756_1027_S27_L001_R2_001.fastq.gz, 81603 of 90882 (89.79%) matched known barcodes.
+2020-01-24 12:00 - INFO - process_reads_fast - Reads without barcode match: 9279 (10.21%) for P14756_1027_S27_L001_R2_001.fastq.gz
+2020-01-24 12:00 - INFO - process_reads_fast - For reverse P14756_1027_S27_L001_R2_001.fastq.gz, 0 of 90882 (0.0%) matched known barcodes.
+2020-01-24 12:00 - INFO - process_reads_fast - Reads without barcode match: 90882 (100.0%) for P14756_1027_S27_L001_R2_001.fastq.gz
+2020-01-24 12:00 - INFO - barseq - Counting Barcodes in P14756_1028_S28_L001_R1_001
+2020-01-24 12:00 - INFO - process_reads_fast - For forward P14756_1028_S28_L001_R1_001.fastq.gz, 0 of 90153 (0.0%) matched known barcodes.
+2020-01-24 12:00 - INFO - process_reads_fast - Reads without barcode match: 90153 (100.0%) for P14756_1028_S28_L001_R1_001.fastq.gz
+2020-01-24 12:00 - INFO - process_reads_fast - For reverse P14756_1028_S28_L001_R1_001.fastq.gz, 84966 of 90153 (94.25%) matched known barcodes.
+2020-01-24 12:00 - INFO - process_reads_fast - Reads without barcode match: 5187 (5.75%) for P14756_1028_S28_L001_R1_001.fastq.gz
+2020-01-24 12:00 - INFO - barseq - Counting Barcodes in P14756_1028_S28_L001_R2_001
+2020-01-24 12:00 - INFO - process_reads_fast - For forward P14756_1028_S28_L001_R2_001.fastq.gz, 81538 of 90153 (90.44%) matched known barcodes.
+2020-01-24 12:00 - INFO - process_reads_fast - Reads without barcode match: 8615 (9.56%) for P14756_1028_S28_L001_R2_001.fastq.gz
+2020-01-24 12:00 - INFO - process_reads_fast - For reverse P14756_1028_S28_L001_R2_001.fastq.gz, 0 of 90153 (0.0%) matched known barcodes.
+2020-01-24 12:00 - INFO - process_reads_fast - Reads without barcode match: 90153 (100.0%) for P14756_1028_S28_L001_R2_001.fastq.gz
+2020-01-24 12:00 - INFO - barseq - Counting Barcodes in P14756_1029_S29_L001_R1_001
+2020-01-24 12:00 - INFO - process_reads_fast - For forward P14756_1029_S29_L001_R1_001.fastq.gz, 0 of 94912 (0.0%) matched known barcodes.
+2020-01-24 12:00 - INFO - process_reads_fast - Reads without barcode match: 94912 (100.0%) for P14756_1029_S29_L001_R1_001.fastq.gz
+2020-01-24 12:00 - INFO - process_reads_fast - For reverse P14756_1029_S29_L001_R1_001.fastq.gz, 80227 of 94912 (84.53%) matched known barcodes.
+2020-01-24 12:00 - INFO - process_reads_fast - Reads without barcode match: 14685 (15.47%) for P14756_1029_S29_L001_R1_001.fastq.gz
+2020-01-24 12:00 - INFO - barseq - Counting Barcodes in P14756_1029_S29_L001_R2_001
+2020-01-24 12:00 - INFO - process_reads_fast - For forward P14756_1029_S29_L001_R2_001.fastq.gz, 76853 of 94912 (80.97%) matched known barcodes.
+2020-01-24 12:00 - INFO - process_reads_fast - Reads without barcode match: 18059 (19.03%) for P14756_1029_S29_L001_R2_001.fastq.gz
+2020-01-24 12:00 - INFO - process_reads_fast - For reverse P14756_1029_S29_L001_R2_001.fastq.gz, 0 of 94912 (0.0%) matched known barcodes.
+2020-01-24 12:00 - INFO - process_reads_fast - Reads without barcode match: 94912 (100.0%) for P14756_1029_S29_L001_R2_001.fastq.gz
+2020-01-24 12:00 - INFO - barseq - Counting Barcodes in P14756_1030_S30_L001_R1_001
+2020-01-24 12:01 - INFO - process_reads_fast - For forward P14756_1030_S30_L001_R1_001.fastq.gz, 0 of 101775 (0.0%) matched known barcodes.
+2020-01-24 12:01 - INFO - process_reads_fast - Reads without barcode match: 101775 (100.0%) for P14756_1030_S30_L001_R1_001.fastq.gz
+2020-01-24 12:01 - INFO - process_reads_fast - For reverse P14756_1030_S30_L001_R1_001.fastq.gz, 86773 of 101775 (85.26%) matched known barcodes.
+2020-01-24 12:01 - INFO - process_reads_fast - Reads without barcode match: 15002 (14.74%) for P14756_1030_S30_L001_R1_001.fastq.gz
+2020-01-24 12:01 - INFO - barseq - Counting Barcodes in P14756_1030_S30_L001_R2_001
+2020-01-24 12:01 - INFO - process_reads_fast - For forward P14756_1030_S30_L001_R2_001.fastq.gz, 83117 of 101775 (81.67%) matched known barcodes.
+2020-01-24 12:01 - INFO - process_reads_fast - Reads without barcode match: 18658 (18.33%) for P14756_1030_S30_L001_R2_001.fastq.gz
+2020-01-24 12:01 - INFO - process_reads_fast - For reverse P14756_1030_S30_L001_R2_001.fastq.gz, 0 of 101775 (0.0%) matched known barcodes.
+2020-01-24 12:01 - INFO - process_reads_fast - Reads without barcode match: 101775 (100.0%) for P14756_1030_S30_L001_R2_001.fastq.gz
+2020-01-24 12:01 - INFO - barseq - Counting Barcodes in P14756_1031_S31_L001_R1_001
+2020-01-24 12:01 - INFO - process_reads_fast - For forward P14756_1031_S31_L001_R1_001.fastq.gz, 1 of 97592 (0.0%) matched known barcodes.
+2020-01-24 12:01 - INFO - process_reads_fast - Reads without barcode match: 97591 (100.0%) for P14756_1031_S31_L001_R1_001.fastq.gz
+2020-01-24 12:01 - INFO - process_reads_fast - For reverse P14756_1031_S31_L001_R1_001.fastq.gz, 82545 of 97592 (84.58%) matched known barcodes.
+2020-01-24 12:01 - INFO - process_reads_fast - Reads without barcode match: 15047 (15.42%) for P14756_1031_S31_L001_R1_001.fastq.gz
+2020-01-24 12:01 - INFO - barseq - Counting Barcodes in P14756_1031_S31_L001_R2_001
+2020-01-24 12:01 - INFO - process_reads_fast - For forward P14756_1031_S31_L001_R2_001.fastq.gz, 79207 of 97592 (81.16%) matched known barcodes.
+2020-01-24 12:01 - INFO - process_reads_fast - Reads without barcode match: 18385 (18.84%) for P14756_1031_S31_L001_R2_001.fastq.gz
+2020-01-24 12:01 - INFO - process_reads_fast - For reverse P14756_1031_S31_L001_R2_001.fastq.gz, 1 of 97592 (0.0%) matched known barcodes.
+2020-01-24 12:01 - INFO - process_reads_fast - Reads without barcode match: 97591 (100.0%) for P14756_1031_S31_L001_R2_001.fastq.gz
+2020-01-24 12:01 - INFO - barseq - Counting Barcodes in P14756_1032_S32_L001_R1_001
+2020-01-24 12:01 - INFO - process_reads_fast - For forward P14756_1032_S32_L001_R1_001.fastq.gz, 0 of 109679 (0.0%) matched known barcodes.
+2020-01-24 12:01 - INFO - process_reads_fast - Reads without barcode match: 109679 (100.0%) for P14756_1032_S32_L001_R1_001.fastq.gz
+2020-01-24 12:01 - INFO - process_reads_fast - For reverse P14756_1032_S32_L001_R1_001.fastq.gz, 92259 of 109679 (84.12%) matched known barcodes.
+2020-01-24 12:01 - INFO - process_reads_fast - Reads without barcode match: 17420 (15.88%) for P14756_1032_S32_L001_R1_001.fastq.gz
+2020-01-24 12:01 - INFO - barseq - Counting Barcodes in P14756_1032_S32_L001_R2_001
+2020-01-24 12:01 - INFO - process_reads_fast - For forward P14756_1032_S32_L001_R2_001.fastq.gz, 88559 of 109679 (80.74%) matched known barcodes.
+2020-01-24 12:01 - INFO - process_reads_fast - Reads without barcode match: 21120 (19.26%) for P14756_1032_S32_L001_R2_001.fastq.gz
+2020-01-24 12:01 - INFO - process_reads_fast - For reverse P14756_1032_S32_L001_R2_001.fastq.gz, 0 of 109679 (0.0%) matched known barcodes.
+2020-01-24 12:01 - INFO - process_reads_fast - Reads without barcode match: 109679 (100.0%) for P14756_1032_S32_L001_R2_001.fastq.gz
+2020-01-24 12:01 - INFO - barseq - Counting Barcodes in P14756_1033_S33_L001_R1_001
+2020-01-24 12:01 - INFO - process_reads_fast - For forward P14756_1033_S33_L001_R1_001.fastq.gz, 1 of 95382 (0.0%) matched known barcodes.
+2020-01-24 12:01 - INFO - process_reads_fast - Reads without barcode match: 95381 (100.0%) for P14756_1033_S33_L001_R1_001.fastq.gz
+2020-01-24 12:01 - INFO - process_reads_fast - For reverse P14756_1033_S33_L001_R1_001.fastq.gz, 80699 of 95382 (84.61%) matched known barcodes.
+2020-01-24 12:01 - INFO - process_reads_fast - Reads without barcode match: 14683 (15.39%) for P14756_1033_S33_L001_R1_001.fastq.gz
+2020-01-24 12:01 - INFO - barseq - Counting Barcodes in P14756_1033_S33_L001_R2_001
+2020-01-24 12:01 - INFO - process_reads_fast - For forward P14756_1033_S33_L001_R2_001.fastq.gz, 77532 of 95382 (81.29%) matched known barcodes.
+2020-01-24 12:01 - INFO - process_reads_fast - Reads without barcode match: 17850 (18.71%) for P14756_1033_S33_L001_R2_001.fastq.gz
+2020-01-24 12:01 - INFO - process_reads_fast - For reverse P14756_1033_S33_L001_R2_001.fastq.gz, 1 of 95382 (0.0%) matched known barcodes.
+2020-01-24 12:01 - INFO - process_reads_fast - Reads without barcode match: 95381 (100.0%) for P14756_1033_S33_L001_R2_001.fastq.gz
+2020-01-24 12:01 - INFO - barseq - Counting Barcodes in P14756_1034_S34_L001_R1_001
+2020-01-24 12:01 - INFO - process_reads_fast - For forward P14756_1034_S34_L001_R1_001.fastq.gz, 0 of 95863 (0.0%) matched known barcodes.
+2020-01-24 12:01 - INFO - process_reads_fast - Reads without barcode match: 95863 (100.0%) for P14756_1034_S34_L001_R1_001.fastq.gz
+2020-01-24 12:01 - INFO - process_reads_fast - For reverse P14756_1034_S34_L001_R1_001.fastq.gz, 82356 of 95863 (85.91%) matched known barcodes.
+2020-01-24 12:01 - INFO - process_reads_fast - Reads without barcode match: 13507 (14.09%) for P14756_1034_S34_L001_R1_001.fastq.gz
+2020-01-24 12:01 - INFO - barseq - Counting Barcodes in P14756_1034_S34_L001_R2_001
+2020-01-24 12:01 - INFO - process_reads_fast - For forward P14756_1034_S34_L001_R2_001.fastq.gz, 78585 of 95863 (81.98%) matched known barcodes.
+2020-01-24 12:01 - INFO - process_reads_fast - Reads without barcode match: 17278 (18.02%) for P14756_1034_S34_L001_R2_001.fastq.gz
+2020-01-24 12:01 - INFO - process_reads_fast - For reverse P14756_1034_S34_L001_R2_001.fastq.gz, 0 of 95863 (0.0%) matched known barcodes.
+2020-01-24 12:01 - INFO - process_reads_fast - Reads without barcode match: 95863 (100.0%) for P14756_1034_S34_L001_R2_001.fastq.gz
+2020-01-24 12:01 - INFO - barseq - Counting Barcodes in P14756_1035_S35_L001_R1_001
+2020-01-24 12:01 - INFO - process_reads_fast - For forward P14756_1035_S35_L001_R1_001.fastq.gz, 0 of 88978 (0.0%) matched known barcodes.
+2020-01-24 12:01 - INFO - process_reads_fast - Reads without barcode match: 88978 (100.0%) for P14756_1035_S35_L001_R1_001.fastq.gz
+2020-01-24 12:01 - INFO - process_reads_fast - For reverse P14756_1035_S35_L001_R1_001.fastq.gz, 74611 of 88978 (83.85%) matched known barcodes.
+2020-01-24 12:01 - INFO - process_reads_fast - Reads without barcode match: 14367 (16.15%) for P14756_1035_S35_L001_R1_001.fastq.gz
+2020-01-24 12:01 - INFO - barseq - Counting Barcodes in P14756_1035_S35_L001_R2_001
+2020-01-24 12:02 - INFO - process_reads_fast - For forward P14756_1035_S35_L001_R2_001.fastq.gz, 71426 of 88978 (80.27%) matched known barcodes.
+2020-01-24 12:02 - INFO - process_reads_fast - Reads without barcode match: 17552 (19.73%) for P14756_1035_S35_L001_R2_001.fastq.gz
+2020-01-24 12:02 - INFO - process_reads_fast - For reverse P14756_1035_S35_L001_R2_001.fastq.gz, 0 of 88978 (0.0%) matched known barcodes.
+2020-01-24 12:02 - INFO - process_reads_fast - Reads without barcode match: 88978 (100.0%) for P14756_1035_S35_L001_R2_001.fastq.gz
+2020-01-24 12:02 - INFO - barseq - Counting Barcodes in P14756_1036_S36_L001_R1_001
+2020-01-24 12:02 - INFO - process_reads_fast - For forward P14756_1036_S36_L001_R1_001.fastq.gz, 0 of 95992 (0.0%) matched known barcodes.
+2020-01-24 12:02 - INFO - process_reads_fast - Reads without barcode match: 95992 (100.0%) for P14756_1036_S36_L001_R1_001.fastq.gz
+2020-01-24 12:02 - INFO - process_reads_fast - For reverse P14756_1036_S36_L001_R1_001.fastq.gz, 81486 of 95992 (84.89%) matched known barcodes.
+2020-01-24 12:02 - INFO - process_reads_fast - Reads without barcode match: 14506 (15.11%) for P14756_1036_S36_L001_R1_001.fastq.gz
+2020-01-24 12:02 - INFO - barseq - Counting Barcodes in P14756_1036_S36_L001_R2_001
+2020-01-24 12:02 - INFO - process_reads_fast - For forward P14756_1036_S36_L001_R2_001.fastq.gz, 78389 of 95992 (81.66%) matched known barcodes.
+2020-01-24 12:02 - INFO - process_reads_fast - Reads without barcode match: 17603 (18.34%) for P14756_1036_S36_L001_R2_001.fastq.gz
+2020-01-24 12:02 - INFO - process_reads_fast - For reverse P14756_1036_S36_L001_R2_001.fastq.gz, 0 of 95992 (0.0%) matched known barcodes.
+2020-01-24 12:02 - INFO - process_reads_fast - Reads without barcode match: 95992 (100.0%) for P14756_1036_S36_L001_R2_001.fastq.gz
+2020-01-24 12:02 - INFO - barseq - Counting Barcodes in P14756_1037_S37_L001_R1_001
+2020-01-24 12:02 - INFO - process_reads_fast - For forward P14756_1037_S37_L001_R1_001.fastq.gz, 0 of 112146 (0.0%) matched known barcodes.
+2020-01-24 12:02 - INFO - process_reads_fast - Reads without barcode match: 112146 (100.0%) for P14756_1037_S37_L001_R1_001.fastq.gz
+2020-01-24 12:02 - INFO - process_reads_fast - For reverse P14756_1037_S37_L001_R1_001.fastq.gz, 94298 of 112146 (84.09%) matched known barcodes.
+2020-01-24 12:02 - INFO - process_reads_fast - Reads without barcode match: 17848 (15.91%) for P14756_1037_S37_L001_R1_001.fastq.gz
+2020-01-24 12:02 - INFO - barseq - Counting Barcodes in P14756_1037_S37_L001_R2_001
+2020-01-24 12:02 - INFO - process_reads_fast - For forward P14756_1037_S37_L001_R2_001.fastq.gz, 90471 of 112146 (80.67%) matched known barcodes.
+2020-01-24 12:02 - INFO - process_reads_fast - Reads without barcode match: 21675 (19.33%) for P14756_1037_S37_L001_R2_001.fastq.gz
+2020-01-24 12:02 - INFO - process_reads_fast - For reverse P14756_1037_S37_L001_R2_001.fastq.gz, 1 of 112146 (0.0%) matched known barcodes.
+2020-01-24 12:02 - INFO - process_reads_fast - Reads without barcode match: 112145 (100.0%) for P14756_1037_S37_L001_R2_001.fastq.gz
+2020-01-24 12:02 - INFO - barseq - Counting Barcodes in P14756_1038_S38_L001_R1_001
+2020-01-24 12:02 - INFO - process_reads_fast - For forward P14756_1038_S38_L001_R1_001.fastq.gz, 0 of 109689 (0.0%) matched known barcodes.
+2020-01-24 12:02 - INFO - process_reads_fast - Reads without barcode match: 109689 (100.0%) for P14756_1038_S38_L001_R1_001.fastq.gz
+2020-01-24 12:02 - INFO - process_reads_fast - For reverse P14756_1038_S38_L001_R1_001.fastq.gz, 93373 of 109689 (85.13%) matched known barcodes.
+2020-01-24 12:02 - INFO - process_reads_fast - Reads without barcode match: 16316 (14.87%) for P14756_1038_S38_L001_R1_001.fastq.gz
+2020-01-24 12:02 - INFO - barseq - Counting Barcodes in P14756_1038_S38_L001_R2_001
+2020-01-24 12:02 - INFO - process_reads_fast - For forward P14756_1038_S38_L001_R2_001.fastq.gz, 89028 of 109689 (81.16%) matched known barcodes.
+2020-01-24 12:02 - INFO - process_reads_fast - Reads without barcode match: 20661 (18.84%) for P14756_1038_S38_L001_R2_001.fastq.gz
+2020-01-24 12:02 - INFO - process_reads_fast - For reverse P14756_1038_S38_L001_R2_001.fastq.gz, 0 of 109689 (0.0%) matched known barcodes.
+2020-01-24 12:02 - INFO - process_reads_fast - Reads without barcode match: 109689 (100.0%) for P14756_1038_S38_L001_R2_001.fastq.gz
+2020-01-24 12:02 - INFO - barseq - Counting Barcodes in P14756_1039_S39_L001_R1_001
+2020-01-24 12:02 - INFO - process_reads_fast - For forward P14756_1039_S39_L001_R1_001.fastq.gz, 1 of 103518 (0.0%) matched known barcodes.
+2020-01-24 12:02 - INFO - process_reads_fast - Reads without barcode match: 103517 (100.0%) for P14756_1039_S39_L001_R1_001.fastq.gz
+2020-01-24 12:02 - INFO - process_reads_fast - For reverse P14756_1039_S39_L001_R1_001.fastq.gz, 87452 of 103518 (84.48%) matched known barcodes.
+2020-01-24 12:02 - INFO - process_reads_fast - Reads without barcode match: 16066 (15.52%) for P14756_1039_S39_L001_R1_001.fastq.gz
+2020-01-24 12:02 - INFO - barseq - Counting Barcodes in P14756_1039_S39_L001_R2_001
+2020-01-24 12:02 - INFO - process_reads_fast - For forward P14756_1039_S39_L001_R2_001.fastq.gz, 84342 of 103518 (81.48%) matched known barcodes.
+2020-01-24 12:02 - INFO - process_reads_fast - Reads without barcode match: 19176 (18.52%) for P14756_1039_S39_L001_R2_001.fastq.gz
+2020-01-24 12:02 - INFO - process_reads_fast - For reverse P14756_1039_S39_L001_R2_001.fastq.gz, 1 of 103518 (0.0%) matched known barcodes.
+2020-01-24 12:02 - INFO - process_reads_fast - Reads without barcode match: 103517 (100.0%) for P14756_1039_S39_L001_R2_001.fastq.gz
+2020-01-24 12:02 - INFO - barseq - Counting Barcodes in P14756_1040_S40_L001_R1_001
+2020-01-24 12:02 - INFO - process_reads_fast - For forward P14756_1040_S40_L001_R1_001.fastq.gz, 0 of 97678 (0.0%) matched known barcodes.
+2020-01-24 12:02 - INFO - process_reads_fast - Reads without barcode match: 97678 (100.0%) for P14756_1040_S40_L001_R1_001.fastq.gz
+2020-01-24 12:02 - INFO - process_reads_fast - For reverse P14756_1040_S40_L001_R1_001.fastq.gz, 81916 of 97678 (83.86%) matched known barcodes.
+2020-01-24 12:02 - INFO - process_reads_fast - Reads without barcode match: 15762 (16.14%) for P14756_1040_S40_L001_R1_001.fastq.gz
+2020-01-24 12:02 - INFO - barseq - Counting Barcodes in P14756_1040_S40_L001_R2_001
+2020-01-24 12:03 - INFO - process_reads_fast - For forward P14756_1040_S40_L001_R2_001.fastq.gz, 78904 of 97678 (80.78%) matched known barcodes.
+2020-01-24 12:03 - INFO - process_reads_fast - Reads without barcode match: 18774 (19.22%) for P14756_1040_S40_L001_R2_001.fastq.gz
+2020-01-24 12:03 - INFO - process_reads_fast - For reverse P14756_1040_S40_L001_R2_001.fastq.gz, 0 of 97678 (0.0%) matched known barcodes.
+2020-01-24 12:03 - INFO - process_reads_fast - Reads without barcode match: 97678 (100.0%) for P14756_1040_S40_L001_R2_001.fastq.gz
+2020-01-24 12:03 - INFO - barseq - Counting Barcodes in P14756_1041_S41_L001_R1_001
+2020-01-24 12:03 - INFO - process_reads_fast - For forward P14756_1041_S41_L001_R1_001.fastq.gz, 1 of 105314 (0.0%) matched known barcodes.
+2020-01-24 12:03 - INFO - process_reads_fast - Reads without barcode match: 105313 (100.0%) for P14756_1041_S41_L001_R1_001.fastq.gz
+2020-01-24 12:03 - INFO - process_reads_fast - For reverse P14756_1041_S41_L001_R1_001.fastq.gz, 91445 of 105314 (86.83%) matched known barcodes.
+2020-01-24 12:03 - INFO - process_reads_fast - Reads without barcode match: 13869 (13.17%) for P14756_1041_S41_L001_R1_001.fastq.gz
+2020-01-24 12:03 - INFO - barseq - Counting Barcodes in P14756_1041_S41_L001_R2_001
+2020-01-24 12:03 - INFO - process_reads_fast - For forward P14756_1041_S41_L001_R2_001.fastq.gz, 87802 of 105314 (83.37%) matched known barcodes.
+2020-01-24 12:03 - INFO - process_reads_fast - Reads without barcode match: 17512 (16.63%) for P14756_1041_S41_L001_R2_001.fastq.gz
+2020-01-24 12:03 - INFO - process_reads_fast - For reverse P14756_1041_S41_L001_R2_001.fastq.gz, 0 of 105314 (0.0%) matched known barcodes.
+2020-01-24 12:03 - INFO - process_reads_fast - Reads without barcode match: 105314 (100.0%) for P14756_1041_S41_L001_R2_001.fastq.gz
+2020-01-24 12:03 - INFO - barseq - Counting Barcodes in P14756_1042_S42_L001_R1_001
+2020-01-24 12:03 - INFO - process_reads_fast - For forward P14756_1042_S42_L001_R1_001.fastq.gz, 0 of 98007 (0.0%) matched known barcodes.
+2020-01-24 12:03 - INFO - process_reads_fast - Reads without barcode match: 98007 (100.0%) for P14756_1042_S42_L001_R1_001.fastq.gz
+2020-01-24 12:03 - INFO - process_reads_fast - For reverse P14756_1042_S42_L001_R1_001.fastq.gz, 85799 of 98007 (87.54%) matched known barcodes.
+2020-01-24 12:03 - INFO - process_reads_fast - Reads without barcode match: 12208 (12.46%) for P14756_1042_S42_L001_R1_001.fastq.gz
+2020-01-24 12:03 - INFO - barseq - Counting Barcodes in P14756_1042_S42_L001_R2_001
+2020-01-24 12:03 - INFO - process_reads_fast - For forward P14756_1042_S42_L001_R2_001.fastq.gz, 82500 of 98007 (84.18%) matched known barcodes.
+2020-01-24 12:03 - INFO - process_reads_fast - Reads without barcode match: 15507 (15.82%) for P14756_1042_S42_L001_R2_001.fastq.gz
+2020-01-24 12:03 - INFO - process_reads_fast - For reverse P14756_1042_S42_L001_R2_001.fastq.gz, 0 of 98007 (0.0%) matched known barcodes.
+2020-01-24 12:03 - INFO - process_reads_fast - Reads without barcode match: 98007 (100.0%) for P14756_1042_S42_L001_R2_001.fastq.gz
+2020-01-24 12:03 - INFO - barseq - Counting Barcodes in P14756_1043_S43_L001_R1_001
+2020-01-24 12:03 - INFO - process_reads_fast - For forward P14756_1043_S43_L001_R1_001.fastq.gz, 0 of 106076 (0.0%) matched known barcodes.
+2020-01-24 12:03 - INFO - process_reads_fast - Reads without barcode match: 106076 (100.0%) for P14756_1043_S43_L001_R1_001.fastq.gz
+2020-01-24 12:03 - INFO - process_reads_fast - For reverse P14756_1043_S43_L001_R1_001.fastq.gz, 90424 of 106076 (85.24%) matched known barcodes.
+2020-01-24 12:03 - INFO - process_reads_fast - Reads without barcode match: 15652 (14.76%) for P14756_1043_S43_L001_R1_001.fastq.gz
+2020-01-24 12:03 - INFO - barseq - Counting Barcodes in P14756_1043_S43_L001_R2_001
+2020-01-24 12:03 - INFO - process_reads_fast - For forward P14756_1043_S43_L001_R2_001.fastq.gz, 87656 of 106076 (82.64%) matched known barcodes.
+2020-01-24 12:03 - INFO - process_reads_fast - Reads without barcode match: 18420 (17.36%) for P14756_1043_S43_L001_R2_001.fastq.gz
+2020-01-24 12:03 - INFO - process_reads_fast - For reverse P14756_1043_S43_L001_R2_001.fastq.gz, 0 of 106076 (0.0%) matched known barcodes.
+2020-01-24 12:03 - INFO - process_reads_fast - Reads without barcode match: 106076 (100.0%) for P14756_1043_S43_L001_R2_001.fastq.gz
+2020-01-24 12:03 - INFO - barseq - Counting Barcodes in P14756_1044_S44_L001_R1_001
+2020-01-24 12:03 - INFO - process_reads_fast - For forward P14756_1044_S44_L001_R1_001.fastq.gz, 0 of 109940 (0.0%) matched known barcodes.
+2020-01-24 12:03 - INFO - process_reads_fast - Reads without barcode match: 109940 (100.0%) for P14756_1044_S44_L001_R1_001.fastq.gz
+2020-01-24 12:03 - INFO - process_reads_fast - For reverse P14756_1044_S44_L001_R1_001.fastq.gz, 95101 of 109940 (86.5%) matched known barcodes.
+2020-01-24 12:03 - INFO - process_reads_fast - Reads without barcode match: 14839 (13.5%) for P14756_1044_S44_L001_R1_001.fastq.gz
+2020-01-24 12:03 - INFO - barseq - Counting Barcodes in P14756_1044_S44_L001_R2_001
+2020-01-24 12:03 - INFO - process_reads_fast - For forward P14756_1044_S44_L001_R2_001.fastq.gz, 91606 of 109940 (83.32%) matched known barcodes.
+2020-01-24 12:03 - INFO - process_reads_fast - Reads without barcode match: 18334 (16.68%) for P14756_1044_S44_L001_R2_001.fastq.gz
+2020-01-24 12:03 - INFO - process_reads_fast - For reverse P14756_1044_S44_L001_R2_001.fastq.gz, 0 of 109940 (0.0%) matched known barcodes.
+2020-01-24 12:03 - INFO - process_reads_fast - Reads without barcode match: 109940 (100.0%) for P14756_1044_S44_L001_R2_001.fastq.gz
+2020-01-24 12:03 - INFO - barseq - Counting Barcodes in P14756_1045_S45_L001_R1_001
+2020-01-24 12:03 - INFO - process_reads_fast - For forward P14756_1045_S45_L001_R1_001.fastq.gz, 0 of 105703 (0.0%) matched known barcodes.
+2020-01-24 12:03 - INFO - process_reads_fast - Reads without barcode match: 105703 (100.0%) for P14756_1045_S45_L001_R1_001.fastq.gz
+2020-01-24 12:03 - INFO - process_reads_fast - For reverse P14756_1045_S45_L001_R1_001.fastq.gz, 91313 of 105703 (86.39%) matched known barcodes.
+2020-01-24 12:03 - INFO - process_reads_fast - Reads without barcode match: 14390 (13.61%) for P14756_1045_S45_L001_R1_001.fastq.gz
+2020-01-24 12:03 - INFO - barseq - Counting Barcodes in P14756_1045_S45_L001_R2_001
+2020-01-24 12:04 - INFO - process_reads_fast - For forward P14756_1045_S45_L001_R2_001.fastq.gz, 87488 of 105703 (82.77%) matched known barcodes.
+2020-01-24 12:04 - INFO - process_reads_fast - Reads without barcode match: 18215 (17.23%) for P14756_1045_S45_L001_R2_001.fastq.gz
+2020-01-24 12:04 - INFO - process_reads_fast - For reverse P14756_1045_S45_L001_R2_001.fastq.gz, 0 of 105703 (0.0%) matched known barcodes.
+2020-01-24 12:04 - INFO - process_reads_fast - Reads without barcode match: 105703 (100.0%) for P14756_1045_S45_L001_R2_001.fastq.gz
+2020-01-24 12:04 - INFO - barseq - Counting Barcodes in P14756_1046_S46_L001_R1_001
+2020-01-24 12:04 - INFO - process_reads_fast - For forward P14756_1046_S46_L001_R1_001.fastq.gz, 0 of 92760 (0.0%) matched known barcodes.
+2020-01-24 12:04 - INFO - process_reads_fast - Reads without barcode match: 92760 (100.0%) for P14756_1046_S46_L001_R1_001.fastq.gz
+2020-01-24 12:04 - INFO - process_reads_fast - For reverse P14756_1046_S46_L001_R1_001.fastq.gz, 80526 of 92760 (86.81%) matched known barcodes.
+2020-01-24 12:04 - INFO - process_reads_fast - Reads without barcode match: 12234 (13.19%) for P14756_1046_S46_L001_R1_001.fastq.gz
+2020-01-24 12:04 - INFO - barseq - Counting Barcodes in P14756_1046_S46_L001_R2_001
+2020-01-24 12:04 - INFO - process_reads_fast - For forward P14756_1046_S46_L001_R2_001.fastq.gz, 76848 of 92760 (82.85%) matched known barcodes.
+2020-01-24 12:04 - INFO - process_reads_fast - Reads without barcode match: 15912 (17.15%) for P14756_1046_S46_L001_R2_001.fastq.gz
+2020-01-24 12:04 - INFO - process_reads_fast - For reverse P14756_1046_S46_L001_R2_001.fastq.gz, 0 of 92760 (0.0%) matched known barcodes.
+2020-01-24 12:04 - INFO - process_reads_fast - Reads without barcode match: 92760 (100.0%) for P14756_1046_S46_L001_R2_001.fastq.gz
+2020-01-24 12:04 - INFO - barseq - Counting Barcodes in P14756_1047_S47_L001_R1_001
+2020-01-24 12:04 - INFO - process_reads_fast - For forward P14756_1047_S47_L001_R1_001.fastq.gz, 0 of 107063 (0.0%) matched known barcodes.
+2020-01-24 12:04 - INFO - process_reads_fast - Reads without barcode match: 107063 (100.0%) for P14756_1047_S47_L001_R1_001.fastq.gz
+2020-01-24 12:04 - INFO - process_reads_fast - For reverse P14756_1047_S47_L001_R1_001.fastq.gz, 92812 of 107063 (86.69%) matched known barcodes.
+2020-01-24 12:04 - INFO - process_reads_fast - Reads without barcode match: 14251 (13.31%) for P14756_1047_S47_L001_R1_001.fastq.gz
+2020-01-24 12:04 - INFO - barseq - Counting Barcodes in P14756_1047_S47_L001_R2_001
+2020-01-24 12:04 - INFO - process_reads_fast - For forward P14756_1047_S47_L001_R2_001.fastq.gz, 89210 of 107063 (83.32%) matched known barcodes.
+2020-01-24 12:04 - INFO - process_reads_fast - Reads without barcode match: 17853 (16.68%) for P14756_1047_S47_L001_R2_001.fastq.gz
+2020-01-24 12:04 - INFO - process_reads_fast - For reverse P14756_1047_S47_L001_R2_001.fastq.gz, 0 of 107063 (0.0%) matched known barcodes.
+2020-01-24 12:04 - INFO - process_reads_fast - Reads without barcode match: 107063 (100.0%) for P14756_1047_S47_L001_R2_001.fastq.gz
+2020-01-24 12:04 - INFO - barseq - Counting Barcodes in P14756_1048_S48_L001_R1_001
+2020-01-24 12:04 - INFO - process_reads_fast - For forward P14756_1048_S48_L001_R1_001.fastq.gz, 1 of 100178 (0.0%) matched known barcodes.
+2020-01-24 12:04 - INFO - process_reads_fast - Reads without barcode match: 100177 (100.0%) for P14756_1048_S48_L001_R1_001.fastq.gz
+2020-01-24 12:04 - INFO - process_reads_fast - For reverse P14756_1048_S48_L001_R1_001.fastq.gz, 87135 of 100178 (86.98%) matched known barcodes.
+2020-01-24 12:04 - INFO - process_reads_fast - Reads without barcode match: 13043 (13.02%) for P14756_1048_S48_L001_R1_001.fastq.gz
+2020-01-24 12:04 - INFO - barseq - Counting Barcodes in P14756_1048_S48_L001_R2_001
+2020-01-24 12:04 - INFO - process_reads_fast - For forward P14756_1048_S48_L001_R2_001.fastq.gz, 83294 of 100178 (83.15%) matched known barcodes.
+2020-01-24 12:04 - INFO - process_reads_fast - Reads without barcode match: 16884 (16.85%) for P14756_1048_S48_L001_R2_001.fastq.gz
+2020-01-24 12:04 - INFO - process_reads_fast - For reverse P14756_1048_S48_L001_R2_001.fastq.gz, 1 of 100178 (0.0%) matched known barcodes.
+2020-01-24 12:04 - INFO - process_reads_fast - Reads without barcode match: 100177 (100.0%) for P14756_1048_S48_L001_R2_001.fastq.gz
+2020-01-24 12:04 - INFO - barseq - Writing results to result_240120
+2020-01-24 12:04 - INFO - barseq - ***** barseq is complete! *****

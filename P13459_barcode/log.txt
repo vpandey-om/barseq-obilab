@@ -1,0 +1,84 @@
+2019-09-30 16:13 - INFO - barseq - ***** Starting barseq *****
+2019-09-30 16:13 - INFO - barseq - Reading in barcodes from sample.csv
+2019-09-30 16:13 - INFO - barseq - Counting Barcodes in P13459_3001_S1_L001_R1_001
+2019-09-30 16:13 - INFO - process_reads_fast - For forward P13459_3001_S1_L001_R1_001.fastq, 0 of 60626 (0.0%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 60626 (100.0%) for P13459_3001_S1_L001_R1_001.fastq
+2019-09-30 16:13 - INFO - process_reads_fast - For reverse P13459_3001_S1_L001_R1_001.fastq, 44530 of 60626 (73.45%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 16096 (26.55%) for P13459_3001_S1_L001_R1_001.fastq
+2019-09-30 16:13 - INFO - barseq - Counting Barcodes in P13459_3001_S1_L001_R2_001
+2019-09-30 16:13 - INFO - process_reads_fast - For forward P13459_3001_S1_L001_R2_001.fastq, 43785 of 60626 (72.22%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 16841 (27.78%) for P13459_3001_S1_L001_R2_001.fastq
+2019-09-30 16:13 - INFO - process_reads_fast - For reverse P13459_3001_S1_L001_R2_001.fastq, 0 of 60626 (0.0%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 60626 (100.0%) for P13459_3001_S1_L001_R2_001.fastq
+2019-09-30 16:13 - INFO - barseq - Counting Barcodes in P13459_3002_S2_L001_R1_001
+2019-09-30 16:13 - INFO - process_reads_fast - For forward P13459_3002_S2_L001_R1_001.fastq, 0 of 47688 (0.0%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 47688 (100.0%) for P13459_3002_S2_L001_R1_001.fastq
+2019-09-30 16:13 - INFO - process_reads_fast - For reverse P13459_3002_S2_L001_R1_001.fastq, 28049 of 47688 (58.82%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 19639 (41.18%) for P13459_3002_S2_L001_R1_001.fastq
+2019-09-30 16:13 - INFO - barseq - Counting Barcodes in P13459_3002_S2_L001_R2_001
+2019-09-30 16:13 - INFO - process_reads_fast - For forward P13459_3002_S2_L001_R2_001.fastq, 27875 of 47688 (58.45%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 19813 (41.55%) for P13459_3002_S2_L001_R2_001.fastq
+2019-09-30 16:13 - INFO - process_reads_fast - For reverse P13459_3002_S2_L001_R2_001.fastq, 0 of 47688 (0.0%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 47688 (100.0%) for P13459_3002_S2_L001_R2_001.fastq
+2019-09-30 16:13 - INFO - barseq - Counting Barcodes in P13459_3003_S3_L001_R1_001
+2019-09-30 16:13 - INFO - process_reads_fast - For forward P13459_3003_S3_L001_R1_001.fastq, 0 of 60527 (0.0%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 60527 (100.0%) for P13459_3003_S3_L001_R1_001.fastq
+2019-09-30 16:13 - INFO - process_reads_fast - For reverse P13459_3003_S3_L001_R1_001.fastq, 22466 of 60527 (37.12%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 38061 (62.88%) for P13459_3003_S3_L001_R1_001.fastq
+2019-09-30 16:13 - INFO - barseq - Counting Barcodes in P13459_3003_S3_L001_R2_001
+2019-09-30 16:13 - INFO - process_reads_fast - For forward P13459_3003_S3_L001_R2_001.fastq, 22263 of 60527 (36.78%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 38264 (63.22%) for P13459_3003_S3_L001_R2_001.fastq
+2019-09-30 16:13 - INFO - process_reads_fast - For reverse P13459_3003_S3_L001_R2_001.fastq, 0 of 60527 (0.0%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 60527 (100.0%) for P13459_3003_S3_L001_R2_001.fastq
+2019-09-30 16:13 - INFO - barseq - Counting Barcodes in P13459_3004_S4_L001_R1_001
+2019-09-30 16:13 - INFO - process_reads_fast - For forward P13459_3004_S4_L001_R1_001.fastq, 0 of 59158 (0.0%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 59158 (100.0%) for P13459_3004_S4_L001_R1_001.fastq
+2019-09-30 16:13 - INFO - process_reads_fast - For reverse P13459_3004_S4_L001_R1_001.fastq, 16984 of 59158 (28.71%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 42174 (71.29%) for P13459_3004_S4_L001_R1_001.fastq
+2019-09-30 16:13 - INFO - barseq - Counting Barcodes in P13459_3004_S4_L001_R2_001
+2019-09-30 16:13 - INFO - process_reads_fast - For forward P13459_3004_S4_L001_R2_001.fastq, 16710 of 59158 (28.25%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 42448 (71.75%) for P13459_3004_S4_L001_R2_001.fastq
+2019-09-30 16:13 - INFO - process_reads_fast - For reverse P13459_3004_S4_L001_R2_001.fastq, 0 of 59158 (0.0%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 59158 (100.0%) for P13459_3004_S4_L001_R2_001.fastq
+2019-09-30 16:13 - INFO - barseq - Counting Barcodes in P13459_3005_S5_L001_R1_001
+2019-09-30 16:13 - INFO - process_reads_fast - For forward P13459_3005_S5_L001_R1_001.fastq, 0 of 50080 (0.0%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 50080 (100.0%) for P13459_3005_S5_L001_R1_001.fastq
+2019-09-30 16:13 - INFO - process_reads_fast - For reverse P13459_3005_S5_L001_R1_001.fastq, 33168 of 50080 (66.23%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 16912 (33.77%) for P13459_3005_S5_L001_R1_001.fastq
+2019-09-30 16:13 - INFO - barseq - Counting Barcodes in P13459_3005_S5_L001_R2_001
+2019-09-30 16:13 - INFO - process_reads_fast - For forward P13459_3005_S5_L001_R2_001.fastq, 33080 of 50080 (66.05%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 17000 (33.95%) for P13459_3005_S5_L001_R2_001.fastq
+2019-09-30 16:13 - INFO - process_reads_fast - For reverse P13459_3005_S5_L001_R2_001.fastq, 0 of 50080 (0.0%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 50080 (100.0%) for P13459_3005_S5_L001_R2_001.fastq
+2019-09-30 16:13 - INFO - barseq - Counting Barcodes in P13459_3006_S6_L001_R1_001
+2019-09-30 16:13 - INFO - process_reads_fast - For forward P13459_3006_S6_L001_R1_001.fastq, 0 of 52577 (0.0%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 52577 (100.0%) for P13459_3006_S6_L001_R1_001.fastq
+2019-09-30 16:13 - INFO - process_reads_fast - For reverse P13459_3006_S6_L001_R1_001.fastq, 45527 of 52577 (86.59%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 7050 (13.41%) for P13459_3006_S6_L001_R1_001.fastq
+2019-09-30 16:13 - INFO - barseq - Counting Barcodes in P13459_3006_S6_L001_R2_001
+2019-09-30 16:13 - INFO - process_reads_fast - For forward P13459_3006_S6_L001_R2_001.fastq, 45114 of 52577 (85.81%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 7463 (14.19%) for P13459_3006_S6_L001_R2_001.fastq
+2019-09-30 16:13 - INFO - process_reads_fast - For reverse P13459_3006_S6_L001_R2_001.fastq, 0 of 52577 (0.0%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 52577 (100.0%) for P13459_3006_S6_L001_R2_001.fastq
+2019-09-30 16:13 - INFO - barseq - Counting Barcodes in P13459_3007_S7_L001_R1_001
+2019-09-30 16:13 - INFO - process_reads_fast - For forward P13459_3007_S7_L001_R1_001.fastq, 0 of 53619 (0.0%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 53619 (100.0%) for P13459_3007_S7_L001_R1_001.fastq
+2019-09-30 16:13 - INFO - process_reads_fast - For reverse P13459_3007_S7_L001_R1_001.fastq, 15533 of 53619 (28.97%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 38086 (71.03%) for P13459_3007_S7_L001_R1_001.fastq
+2019-09-30 16:13 - INFO - barseq - Counting Barcodes in P13459_3007_S7_L001_R2_001
+2019-09-30 16:13 - INFO - process_reads_fast - For forward P13459_3007_S7_L001_R2_001.fastq, 15416 of 53619 (28.75%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 38203 (71.25%) for P13459_3007_S7_L001_R2_001.fastq
+2019-09-30 16:13 - INFO - process_reads_fast - For reverse P13459_3007_S7_L001_R2_001.fastq, 0 of 53619 (0.0%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 53619 (100.0%) for P13459_3007_S7_L001_R2_001.fastq
+2019-09-30 16:13 - INFO - barseq - Counting Barcodes in P13459_3008_S8_L001_R1_001
+2019-09-30 16:13 - INFO - process_reads_fast - For forward P13459_3008_S8_L001_R1_001.fastq, 0 of 56754 (0.0%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 56754 (100.0%) for P13459_3008_S8_L001_R1_001.fastq
+2019-09-30 16:13 - INFO - process_reads_fast - For reverse P13459_3008_S8_L001_R1_001.fastq, 11458 of 56754 (20.19%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 45296 (79.81%) for P13459_3008_S8_L001_R1_001.fastq
+2019-09-30 16:13 - INFO - barseq - Counting Barcodes in P13459_3008_S8_L001_R2_001
+2019-09-30 16:13 - INFO - process_reads_fast - For forward P13459_3008_S8_L001_R2_001.fastq, 11314 of 56754 (19.94%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 45440 (80.06%) for P13459_3008_S8_L001_R2_001.fastq
+2019-09-30 16:13 - INFO - process_reads_fast - For reverse P13459_3008_S8_L001_R2_001.fastq, 0 of 56754 (0.0%) matched known barcodes.
+2019-09-30 16:13 - INFO - process_reads_fast - Reads without barcode match: 56754 (100.0%) for P13459_3008_S8_L001_R2_001.fastq
+2019-09-30 16:13 - INFO - barseq - Writing results to P13459_barcode
+2019-09-30 16:13 - INFO - barseq - ***** barseq is complete! *****
