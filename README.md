@@ -11,6 +11,8 @@ arg4 with -r : result folder
 
 Step 2: remove all zero counts 
 
+python remove_zero_barseq_count.py
+
 
 
 
