@@ -11,7 +11,12 @@ arg4 with -r : result folder
 
 Step 2: remove all zero counts 
 
-python remove_zero_barseq_count.py
+python remove_zero_barseq_count.py Result_P14756_barcode_counts_table.csv Result_after_removing_zero.csv
+
+arg1: This file will be genrated after step 1 in the result folder. Result_P14756_barcode_counts_table.csv
+
+
+
 
 
 
