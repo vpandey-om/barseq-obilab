@@ -1,7 +1,8 @@
 # barseq-obilab
 
 # how to run
-Install: Need some Library such as screed regex
+Install: Need some Library such as screed regex.
+
 Step1 :
 python barseq.py -i data/sequence -b barcode_gene_file.csv -r testRes
 
