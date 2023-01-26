@@ -42,7 +42,7 @@ def read_barcodes_new(barcodes_file: Path) -> dict:
     # Store barcodes
     barcode_dict = dict()
     barcode_df=pd.read_csv(barcodes_file)
-    # import pdb;pdb.set_trace()
+
     barcode_df=barcode_df.rename(columns={barcode_df.columns[1]: "gene"})
 
     barcode_df['count']=0
@@ -115,7 +115,7 @@ def write_output(sample_dict: dict, barcode_dict: dict, runner) -> None:
         sample_df = pd.DataFrame.from_dict(counts, orient="index", columns=[sample])
         df = pd.concat([df, sample_df], axis=1)
     # Write to output
-    df.to_csv(f"{runner.path}/barcode_counts_table.csv")
+    df.to_csv(f"{runner.path}/barcode_counts_table.csv",index=True, index_label='Gene')
     return
 
 
@@ -148,7 +148,7 @@ def make_barseq_directories(runner) -> None:
     results_folder.mkdir(parents=True)
     runner.path = results_folder
     return
-    
+
 
 if __name__ == '__main__':
     pass
