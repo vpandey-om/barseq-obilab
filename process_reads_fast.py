@@ -75,7 +75,7 @@ def count_barcodes(seq_file, barcode_dict,samples) -> None:
     # calMatchReads(seq_file,barcode_dict_rev,n_reads2,flag="reverse")
 
 def reverse_complement(dna):
-    complement = {'A': 'T', 'C': 'G', 'G': 'C', 'T': 'A'}
+    complement = {'A': 'T', 'C': 'G', 'G': 'C', 'T': 'A','N':'N'}
     return ''.join([complement[base] for base in dna[::-1]])
 
 
@@ -135,4 +135,3 @@ def calMatchReads(seq_file,barcode_dict,n_reads,flag):
 
 if __name__ == '__main__':
     pass
-
